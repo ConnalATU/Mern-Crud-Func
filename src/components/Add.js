@@ -20,7 +20,7 @@ export function Add() {
     // Then machine learning is prefomred on all the data recorded in the database, plus this new record
     // Reponse is then sent back to frontend to display prediction for next weeks usage 
     // error handling is used if there is a problem
-    axios.post('http://billbusterapi.azurewebsites.net', { week, amount, company, date })
+    axios.post('http://billbusterapi.azurewebsites.net/api/energys', { week, amount, company, date })
       .then(response => {
         alert("Thank you, your data has been submitted, click OK to get next weeks usage prediction");
         //sets prediction from response without decimal places
