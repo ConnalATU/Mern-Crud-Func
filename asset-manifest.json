@@ -1,0 +1,32 @@
+{
+  "files": {
+    "app.js": "/static/js/app.3cafda2a.chunk.js",
+    "app.js.map": "/static/js/app.3cafda2a.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.fbc144b5.chunk.js": "/static/js/2.fbc144b5.chunk.js",
+    "static/js/2.fbc144b5.chunk.js.map": "/static/js/2.fbc144b5.chunk.js.map",
+    "fonts/FontAwesome.ttf": "/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Ionicons.ttf": "/./fonts/Ionicons.ttf",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.fbc144b5.chunk.js.LICENSE.txt": "/static/js/2.fbc144b5.chunk.js.LICENSE.txt",
+    "static/media/Splash.gif": "/static/media/Splash.942f8a35.gif",
+    "static/media/bbBackground_w2.png": "/static/media/bbBackground_w2.cebd795a.png",
+    "static/media/bbBackground_w3.png": "/static/media/bbBackground_w3.59224d1d.png",
+    "static/media/bbLogo.jpg": "/static/media/bbLogo.8e6fc9df.jpg",
+    "static/media/form.png": "/static/media/form.0ab4a003.png",
+    "static/media/picker.png": "/static/media/picker.c9b650c5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.fbc144b5.chunk.js",
+    "static/js/app.3cafda2a.chunk.js"
+  ]
+}
