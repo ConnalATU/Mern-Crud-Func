@@ -14,7 +14,7 @@ export function Body() {
             <Search />
             <h1> Welcome To Bill Buster</h1>
             <p>Keep track of your electricity usage, add your meter reading every week, our machine learning algorithim will predict your next weeks usage. You can add, delete, read and update all your entries. You can also seach the database by company on the right.</p>
-        <a href="some url"
+        <a href="https://billbusterpwa.netlify.app/"
    onclick="window.open(this.href,'https://billbusterpwa.netlify.app/',
                                    'width=700px,
                                     height=700px');
